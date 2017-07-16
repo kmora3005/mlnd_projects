@@ -1,0 +1,32 @@
+Maze name: test_maze_01
+Smart level: 1
+Is there exploration stage? False
+
+Run 1=>
+Is goal reached? False
+Coverage: 93.0555555556%
+Total moves: 0
+Path length: 0
+
+Run 2=>
+Total moves: 0
+Path length: 0
+Optimal path: []
+Score: 0
+
+More info=>
+Dead end path locations: []
+Locations visited: {}
+Optimal path visualization:
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  G  G  .  .  .  .  .  
+.  .  .  .  .  G  G  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+.  .  .  .  .  .  .  .  .  .  .  .  
+S  .  .  .  .  .  .  .  .  .  .  .  
